@@ -1,4 +1,4 @@
-# Lab 07 - SQL Commands for Client and Product Master Management
+# SQL Commands for Client and Product Master Management
 
 ## Course: Introduction to Database System  
 ## Course Code: DS-206L  
