@@ -16,8 +16,3 @@ Practice and implement advanced SQL operations including:
 
 ---
 
-## Tasks
-
-**Task 1:** Show all product names and their selling prices.  
-```sql
-SELECT product_name, selling_price FROM product_master;
